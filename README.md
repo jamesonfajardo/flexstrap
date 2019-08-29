@@ -40,8 +40,22 @@ Basic flex styles are bound to classes a, b, c, d, f
 Here are some combinations that you can use standalone or together with columnizer  
 Assuming that the parent element is 100x100 pixels and has no padding
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) **top-left** `class='a b1 c1'`  
+![#800080](https://placehold.it/15/800080/000000?text=+) **top-left**  
+`class='a b1 c1'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-left.png)  
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) **top-center** `class='a b2 c1'`  
+![#800080](https://placehold.it/15/800080/000000?text=+) **top-center**  
+`class='a b2 c1'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-mid.png)  
+
+![#800080](https://placehold.it/15/800080/000000?text=+) **top-right**  
+`class='a b3 c1'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-right.png)  
+
+![#800080](https://placehold.it/15/800080/000000?text=+) **top-space_around**  
+`class='a b4 c1'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-sa.png)  
+
+![#800080](https://placehold.it/15/800080/000000?text=+) **top-space_between**  
+`class='a b5 c1'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-sb.png)  
