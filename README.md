@@ -40,4 +40,8 @@ Basic flex styles are bound to classes a, b, c, d, f
 Here are some combinations that you can use standalone or together with columnizer  
 Assuming that the parent element is 100x100 pixels and has no padding
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) a b1 c1  
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) **top-left** `class='a b1 c1'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-left.png)  
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) **top-center** `class='a b2 c1'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-mid.png)  
