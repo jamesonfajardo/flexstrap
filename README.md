@@ -79,3 +79,23 @@ ___
 ![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-space_between**  
 `class='a b5 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-sb.png)  
+___
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **bottom-left**  
+`class='a b1 c3'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/bot-left.png)  
+
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **bottom-center**  
+`class='a b2 c3'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/bot-mid.png)  
+
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **bottom-right**  
+`class='a b3 c3'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/bot-right.png)  
+
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **bottom-space_around**  
+`class='a b4 c3'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/bot-sa.png)  
+
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **bottom-space_between**  
+`class='a b5 c3'`  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/bot-sb.png)  
