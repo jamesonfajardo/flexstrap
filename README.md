@@ -1,11 +1,11 @@
 # Flexstrap
 Flexstrap is a responsive library that is based on flexbox, and can be used alongside bootstrap.
 
-Unlike bootstrap's row + col- class, flexstrap only needs to include the class in the parent element and it will automatically columnize it's child elements depending on the given pixels.
+Unlike bootstrap's row + col- class, flexstrap's columnizer only needs to include the class in the parent element and it will automatically format its child elements to column depending on the given pixels.
 
 # Syntax
-Flexstrap accepts inputs from 300px up to 1200px with 50px intervals  
-Always include the class **`f1`** (flex center) then the flexstrap class.  
+Flexstrap columnizer accept inputs from 300px up to 1200px with 50px intervals  
+Always include the class **`f1`** (flex center) then the flexstrap columnizer class.  
 More combinations will be provided after the sample codes    
 
 ![#00FA9A](https://placehold.it/15/00FA9A/000000?text=+) .col--3 `format child elements to column if width is less than 300px`  
@@ -30,3 +30,14 @@ More combinations will be provided after the sample codes
   <p>Element 3</p>  
 </section>
 ```
+If container is above 350px  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/horizontal.png)  
+If container is below 350px  
+![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/vertical.png)  
+
+# Flex Combinations  
+Basic flex styles are bound to classes a, b, c, d, f  
+Here are some combinations that you can use standalone or together with columnizer  
+Assuming that the parent element is 100x100 pixels and has no padding
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) a b1 c1  
