@@ -36,7 +36,16 @@ If container is below 350px
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/vertical.png)  
 
 # Flex Combinations  
-Basic flex styles are bound to classes a, b, c, d, f  
+Basic flex styles are bound to classes a, b, c, d, f1  
+- **`a`** activates flexstrap  
+- **`b`** controls x-axis  
+- **`c`** controls y-axis  
+- **`d1`** format to column  
+- **`d2`** enable children wrapping  
+- **`f1`** centers content vertically and horizontally    
+
+### NOTE: when **`d1`** is activated, **`b`** controls y-axis and **`c`** controls x-axis
+
 Here are some combinations that you can use standalone or together with columnizer  
 ___
 ![#800080](https://placehold.it/15/800080/000000?text=+) **top-left**  
