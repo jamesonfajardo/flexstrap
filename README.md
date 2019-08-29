@@ -98,3 +98,6 @@ ___
 ![#4682B4](https://placehold.it/15/4682B4/000000?text=+) **bottom-space_between**  
 `class='a b5 c3'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/bot-sb.png)  
+___
+![#4CAF50](https://placehold.it/15/4CAF50/000000?text=+) Add **d1** to existing flex combinations to format the child elements to column  
+![#4CAF50](https://placehold.it/15/4CAF50/000000?text=+) Add **d2** to existing flex combinations to wrap the child elements when parent width is less than the total child width
