@@ -60,22 +60,22 @@ ___
 `class='a b5 c1'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-sb.png)  
 ___
-![#08080](https://placehold.it/15/08080/000000?text=+) **center-left**  
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-left**  
 `class='a b1 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-left.png)  
 
-![#08080](https://placehold.it/15/08080/000000?text=+) **center-center**  
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-center**  
 `class='a b2 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-mid.png)  
 
-![#08080](https://placehold.it/15/08080/000000?text=+) **center-right**  
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-right**  
 `class='a b3 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-right.png)  
 
-![#08080](https://placehold.it/15/08080/000000?text=+) **center-space_around**  
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-space_around**  
 `class='a b4 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-sa.png)  
 
-![#08080](https://placehold.it/15/08080/000000?text=+) **center-space_between**  
+![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-space_between**  
 `class='a b5 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-sb.png)  
