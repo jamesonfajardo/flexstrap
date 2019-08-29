@@ -38,7 +38,6 @@ If container is below 350px
 # Flex Combinations  
 Basic flex styles are bound to classes a, b, c, d, f  
 Here are some combinations that you can use standalone or together with columnizer  
-Assuming that the parent element is 100x100 pixels and has no padding
 ___
 ![#800080](https://placehold.it/15/800080/000000?text=+) **top-left**  
 `class='a b1 c1'`  
@@ -65,7 +64,7 @@ ___
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-left.png)  
 
 ![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-center**  
-`class='a b2 c2'`  
+`class='a b2 c2'` or `class='f1'`
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-mid.png)  
 
 ![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-right**  
