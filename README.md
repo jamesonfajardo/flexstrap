@@ -64,7 +64,7 @@ ___
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-left.png)  
 
 ![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-center**  
-`class='a b2 c2'` or `class='f1'`
+`class='a b2 c2'` or `class='f1'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-mid.png)  
 
 ![#F08080](https://placehold.it/15/F08080/000000?text=+) **center-right**  
