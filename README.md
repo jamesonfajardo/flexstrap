@@ -61,21 +61,21 @@ ___
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/top-sb.png)  
 ___
 ![#DC143C](https://placehold.it/15/DC143C/000000?text=+) **center-left**  
-`class='a b1 c1'`  
+`class='a b1 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-left.png)  
 
 ![#DC143C](https://placehold.it/15/DC143C/000000?text=+) **center-center**  
-`class='a b2 c1'`  
+`class='a b2 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-mid.png)  
 
 ![#DC143C](https://placehold.it/15/DC143C/000000?text=+) **center-right**  
-`class='a b3 c1'`  
+`class='a b3 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-right.png)  
 
 ![#DC143C](https://placehold.it/15/DC143C/000000?text=+) **center-space_around**  
-`class='a b4 c1'`  
+`class='a b4 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-sa.png)  
 
 ![#DC143C](https://placehold.it/15/DC143C/000000?text=+) **center-space_between**  
-`class='a b5 c1'`  
+`class='a b5 c2'`  
 ![pysql](https://raw.githubusercontent.com/jamesonfajardo/flexstrap/master/mid-sb.png)  
